@@ -5,7 +5,7 @@ In order to run everything properly, you need to have the following Python packa
 - `pygame`
 - `numpy`
 
-The main file, which runs the app, is `simulation.py`. This file needs some classes that are in the other files of these repository.
+The main file, which runs the app, is `simulation.py`. The other files contain the implementations necessary to run the app.
 
 The app has three different screens. The first one allows you to choose between two categories of simulation.
 The categories are **Neighbourhoods** and **Regular Model**, which are explained in more detail below.
